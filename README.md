@@ -1,2 +1,2 @@
 # UM setlist generator
- LSTM/tensorflow model to generate setlists from the band Umphrey's McGee
+ LSTM model using tensorflow/keras to generate setlists from the band Umphrey's McGee
